@@ -1,0 +1,9 @@
+@media (max-width:992px)  {
+    .justy{
+        text-align: justify;
+    }
+}
+
+.mail {
+    margin-right: -5px;
+}
